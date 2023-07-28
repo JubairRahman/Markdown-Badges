@@ -7,7 +7,7 @@ Add badges to your Profile and Projects.
 
 ## License
 
-[MIT](https://github.com/JubairRahman/)
+[MIT](https://raw.githubusercontent.com/polakDas/Markdown-Badges/main/LICENSE)
 
 # Table of contents
 - [Markdown-Badges](#markdown-badges)
