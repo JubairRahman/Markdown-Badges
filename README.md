@@ -3,6 +3,12 @@ This Gist contains a collection of useful Markdown badges that you can include i
 
 Add badges to your Profile and Projects.
 
+:star: Please consider giving this repository a star to show your support!
+
+## License
+
+[MIT](https://github.com/JubairRahman/)
+
 # Table of contents
 - [Markdown-Badges](#markdown-badges)
 - [Table of contents](#table-of-contents)
